@@ -1,5 +1,6 @@
 locationKey	actionMessage	inputKey	targetLocationKey	messageName
-1	Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít podél stěny vlevo nebo vpravo?	1	100	exmessage
-10	example	2	1	b
+1	Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu? 1(ano) 2(ne)	1	2	Skulinou ve stropě prosvítá světlo. Zjišťuješ že se nacházíš v jeskyni. 
+2	na zemi vidíš svitek sálající magií a opodál valoun zlata. Co chceš vzít? 1(zlato) 2(svitek)	2	1	b
 11	example	3	1	ab
 1	example	2	2	heureka
+
