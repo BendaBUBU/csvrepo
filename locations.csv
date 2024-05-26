@@ -1,6 +1,6 @@
-locationKey	actionMessage	inputKey	locationName	targetLocationKey	messageName
-1	Probouzíš se, nic nevidíš a hlava ti třeští bolestí. Po chvíli bolest ustane a tápeš po tmě. Všude kolem tebe je kámen, jsi asi v jeskyni. Chceš jít podél stěny vpravo nebo vlevo?	1	example	100	exmessage
-10	example	2	example	1	b
-11	example	3	example	1	ab
-1	example	2	examplius	2	heureka
+locationKey;	actionMessage;	inputKey;	targetLocationKey;	messageName
+1;	example;	1;	100;	exmessage;
+10;	example;	2;	1;	b;
+11;	example;	3;	1;	ab;
+1;	example;	2;	2;	heureka;
 
