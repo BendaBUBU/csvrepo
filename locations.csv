@@ -1,4 +1,8 @@
 locationKey;actionMessage;inputKey;targetLocationKey;messageName
 1;ano;1;2;Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu?
-1;ne;2;1;
+1;ne;2;666;
 2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Opodál na zemi spatříš svitek sálající magíí. Poté co ho vezmš se jeskyně začne otřásat a ty utíkáš ven.
+3;ano;1;4;Venku je noc a přes stromy v pozadí vidíš matné světlo. Chceš jít ke světlu nebo jít opačným směrem?
+666;začni znova;1;1;Zemřel jsi.
+3;ne ;2;101;
+101;;;;
