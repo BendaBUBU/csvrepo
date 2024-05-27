@@ -1,6 +1,4 @@
-locationKey,	actionMessage,	inputKey,	targetLocationKey,	messageName,
-1,	Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu? 1(ano) 10(ne),	1,	2,	Skulinou ve stropě prosvítá světlo. Zjišťuješ že se nacházíš v jeskyni., 
-2,	Na zemi vidíš svitek sálající magií. Poté co ho vezmeš se všechno okolo začne třást a ty utíkáš přímo za nosem,	2,	3,	Vyběhl jsi z jeksyně do temného lesa
-10,	V jeskyni umíráš žízní.,			
-3,
-
+locationKey;actionMessage;inputKey;targetLocationKey;messageName
+1;ano;1;2;Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu?
+1;ne;2;1;
+2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Opodál na zemi spatříš svitek sálající magíí. Poté co ho vezmš se jeskyně začne otřásat a ty utíkáš ven.
