@@ -2,9 +2,16 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 666;začni znova;1;1;Zemřel jsi.
 1;ano;1;2;Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu?
 1;ne;2;666;
-2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Opodál na zemi spatříš svitek sálající magíí. Poté co ho vezmš se jeskyně začne otřásat a ty utíkáš ven.
+2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Opodál na zemi spatříš svitek sálající magíí. Poté co ho vezmeš se jeskyně začne otřásat a ty utíkáš ven.
 3;ano;1;4;Venku je noc a přes stromy v pozadí vidíš matné světlo. Chceš jít ke světlu nebo jít opačným směrem?
 3;ne;2;101;
 4;ano;1;5;Došel jsi bez potíží ke světlu, které se ukázalo jako pěkná chaloupka. Chceš zaklepat nebo to nejdřív obhlédnout?
 4;ne;2;55;
-55;ano;1;666;Za rohem na tebe vyskočil mutant mezi psem a medvědem, který tě jedním máchnutím tlapy zabil.
+55;přijmout osud;1;666;Za rohem na tebe vyskočil mutant mezi psem a medvědem, který se p5ipravuje na máchnutí.
+5;ano;1;6; Po kladné odpovědi jsi vstoupil. Ve svetničce sedí dědeček, který povídá:"Zdravím poutníku, potřeboval bych menší výpomoc. Naoplátku tě pošlu domů. Co na to říkáš?"
+5;ne;2;101;
+6;Tak já jdu;1;7;"Perfetktní. V lesíku opodál jsem ztratil svoji hůl. Přines mi ji a já tě pošlu domů." povídá děda.
+7;vydat se za malebným zpěvem;1;77; Poté co se ti chaloupka ztratí z dohledu, uslyšíš malebný zpěv.
+7;jít dál stejným směrem;2;8;
+8
+77
