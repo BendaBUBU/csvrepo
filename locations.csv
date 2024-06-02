@@ -13,5 +13,7 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 6;Tak já jdu;1;7;"Perfetktní. V lesíku opodál jsem ztratil svoji hůl. Přines mi ji a já tě pošlu domů." povídá děda.
 7;vydat se za malebným zpěvem;1;77; Poté co se ti chaloupka ztratí z dohledu, uslyšíš malebný zpěv.
 7;jít dál stejným směrem;2;8;
-8
-77
+8;sebrat hůl a vrátit se k dědovi;1;9; Došel jsi na mýtinu, nahoře leží hůl podobná té Gandalfově.
+77;;;;
+9;nechat se poslat domů;1;0;"Dobrá práce poutníku. Nyní k mojí části dohody."
+0;začít znova;1;1;Dohrál jsi naši hru gratulace.
