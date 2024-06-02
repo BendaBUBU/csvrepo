@@ -8,13 +8,17 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 4;ano;1;5;Došel jsi bez potíží ke světlu, které se ukázalo jako pěkná chaloupka. Chceš zaklepat nebo to nejdřív obhlédnout?
 4;ne;2;55;
 55;přijmout osud;1;666;Za rohem na tebe vyskočil mutant mezi psem a medvědem, který se p5ipravuje na máchnutí.
-5;ano;1;6; Po kladné odpovědi jsi vstoupil. Ve svetničce sedí dědeček, který povídá:"Zdravím poutníku, potřeboval bych menší výpomoc. Naoplátku tě pošlu domů. Co na to říkáš?"
+5;ano;1;6;Po kladné odpovědi jsi vstoupil. Ve svetničce sedí dědeček, který povídá:"Zdravím poutníku, potřeboval bych menší výpomoc. Naoplátku tě pošlu domů. Co na to říkáš?"
 5;ne;2;101;
-6;Tak já jdu;1;7;"Perfektní. V lesíku opodál jsem ztratil svoji hůl. Přines mi ji a já tě pošlu domů." povídá děda.
+6;Tak já jdu;1;7;"Perfektní. V lesíku opodál jsem ztratil svoji hůl. Přines mi ji a já tě pošlu domů,"povídá děda.
 7;vydat se za malebným zpěvem;1;77; Poté co se ti chaloupka ztratí z dohledu, uslyšíš malebný zpěv.
 7;jít dál stejným směrem;2;8;
-8;sebrat hůl a vrátit se k dědovi;1;9; Došel jsi na nevelkou mýtinu, na ní leží hůl podobná té Gandalfově.
+8;sebrat hůl a vrátit se k dědovi;1;9;Po dvou hodinách jsi dorazil na nevelkou mýtinu, na ní leží hůl podobná té Gandalfově.
 77;dobře;1;78;Dorazil jsi k jezírku. Nad ním tančí a zpívá víla. Všimne si tě a povídá:"Vylušť moji hádanku a já tě odměním."
-77ne2
+77;ne;2;76;
+76;přijmout osud;1;666;víla se urazila a šlahouny tě stáhly pod vodu.
+78;energie;1;666;Co jsem? Všem věcem i lidem náležím. Děti mě zbožňují, starci se bojí. Můžeš mě nenávidět ale zničit mě nemůžeš.
+78;odraz;2;79;
+79;sebrat prsten a jít si po svým;1;8;Víla mávla rukou a na břehu se objevil prsten s briliantem, pak víla zmizela.
 9;nechat se poslat domů;1;0;"Dobrá práce poutníku. Nyní k mojí části dohody."
 0;začít znova;1;1;Dohrál jsi naši hru, gratulace.
