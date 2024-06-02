@@ -6,5 +6,5 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 3;ano;1;4;Venku je noc a přes stromy v pozadí vidíš matné světlo. Chceš jít ke světlu nebo jít opačným směrem?
 3;ne ;2;101;
 4;ano;1;5;Došel jsi bez potíží ke světlu, které se ukázalo jako pěkná chaloupka. Chceš zaklepat nebo nejdřív obhlédnout?
-4;ne;2;4;Za rohem na tebe vyskočil mutant mezi psem a medvědem, který tě jedním máchnutím tlapy zabil.
-101;;;;
+4;ne;2;55;
+55;ano;1;666;Za rohem na tebe vyskočil mutant mezi psem a medvědem, který tě jedním máchnutím tlapy zabil.
