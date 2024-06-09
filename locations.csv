@@ -63,10 +63,11 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 123brnko;Ano;1;124;Stojíš před jeskyní, kde to začalo. Chceš jít dál a utkat se s čímkoliv na co uvnitř narazíš?
 1003helma;1;1004;;Stojíš před jeskyní, kde to začalo. Chceš jít dál a utkat se s čímkoliv na co uvnitř narazíš?
 124;blokovat mečem;2;125;Vejdeš do kruhové části jeskyně a uprostřed se z víru netopýrů zhmotní upír, zavříská, až ti to trhá ušní bubínky a opět se promění ve vír. Upír se zhmotní až u tebe a chystá se tě seknout jako břitvou ostrými nehty.
-125;nechat se skoro trefit do brnění a pak udeřit;1;126;Upír se zase proměnil před mečem, zdá se že se ho bojí. Možná když mu dáš pocit, že již zasahuje tak se neodhmotní.
-126;odejít portálem do svého světa;1;0;Fungovalo to, upír se nechal nachytat a zbyla z něj hromádka prachu.
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+125;nechat se skoro trefit do brnění a pak udeřit;1;126;Upír se zase proměnil před mečem, zdá se že se ho bojí. Možná když mu dáš pocit, že již zasahuje, tak se neodhmotní.
+126;odejít portálem do svého světa;1;0;Fungovalo to, upír to neočekával a zbyla z něj pouhá hromádka prachu.
+124;uskočit;1;1244;
+1244;blokovat mečem;1;125;Znovu už uskočit nestihneš, upír je moc rychlý.
+1004;blokovat mečem;2;1005;Vejdeš do kruhové části jeskyně a uprostřed se z víru netopýrů zhmotní upír, zavříská, až ti to trhá ušní bubínky a opět se promění ve vír. Upír se zhmotní až u tebe a chystá se tě seknout jako břitvou ostrými nehty.
+1004;uskočit;1;10055;
+1005;skočit hlavou do upíra;1;126;Upír se zase proměnil před mečem, zdá se že se ho bojí. Možná když mu dáš pocit, že již zasahuje, tak se neodhmotní.
+10055;blokovat mečem;1;1005;Znovu už uskočit nestihneš, upír je moc rychlý.
