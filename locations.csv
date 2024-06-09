@@ -22,7 +22,7 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 79;sebrat prsten a jít si po svým;1;8;Víla mávla rukou a na břehu se objevil prsten s briliantem, pak víla zmizela.
 9;nechat se poslat domů;1;0;"Dobrá práce poutníku. Nyní k mojí části dohody."
 0;začít znova;1;1;Dohrál jsi naši hru, gratulace.
-101;utíkat;1;102;Procházíš temným lesem, když za sebou uslyšíš těžkopádné kroky. Otočíš se a uvidíš poraněného vlkodlaka.
+101;utíkat;1;102;Procházíš temným lesem, když za sebou uslyšíš těžkopádné kroky. Otočíš se a uvidíš vlkodlaka s poraněnou rukou.
 101;Dobrý den, mohu vám pomoct?;2;666;
 102;doleva;1;103;Běžíš sprintem a snažíš se vlkodlakovi ztratit, ale v noci nic nevidíš a tak zahybáš podle instinktů.
 102;doprava;2;666;
@@ -32,6 +32,40 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 104;doprava;2;105;
 105;doleva;1;106;
 105;doprava;2;666;
+106;doleva;1;107;
+106;doprava;2;666;
+107;doleva;1;666;
+107;doprava;2;108;
+108;doleva;1;109;
+108;doprava;2;666;
+109;doleva;1;666;
+109;doprava;2;110;
+110;;;;Za sebou jsi uslyšel bolestivý vytí, jak vlkodlak
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
 ;;;;
 ;;;;
 ;;;;
