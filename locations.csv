@@ -46,12 +46,12 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 111;vyhnout se chatrči;2;112;
 112;jít k chatrči;1;113;Po neurčité době jsi se kolem sebe rozhlédl a opět jsi uviděl chatrč, citíš letmý tah, který tě k ní táhne, kterému se jen obtížně odolává.
 113;otevřit truhlu;1;114;Uvnitř jsi našel pouze shnilý dřevo a truhlu.
-114;sebrat brnění a meč;1;115;V truhle jsi nalezl část brnění- hrudní plát s nárameníky a namodralý jedenapůlruční meč.
-115;...;1;116;POté co jsi sebral meč se ti před očima zjevil nápis:"Přeješ-li si žíti, dvakrát stejný výpad neuděláš." Pak jsi tě přemohla únava a přemohl tě spánek.
+114;sebrat brnění a meč;1;115;V truhle jsi nalezl část brnění- helmu,hrudní plát s nárameníky a namodralý jedenapůlruční meč.
+115;...;1;116;Poté co jsi sebral meč se ti před očima zjevil nápis:"Přeješ-li si žíti, dvakrát stejný výpad neuděláš." Pak jsi tě přemohla únava a přemohl tě spánek.
 116;vydat se zpátky na cestu do jekyně;1;117;Ráno jsi se probudil se silnou představou portálu domů v jeskyni, kde jsi se původně probudil. Ale portál byl zčásti zakryt postavou podobnou té lidské.
-117;;;;V lese jsi narazl na 2 gobliny. Jeden s mečem a štítem a druhý s lukem a 
-;;;;
-;;;;
+117;přesunout se, aby goblin s lukem nemohl vystřelit;1;118;V lese jsi narazl na 2 gobliny. Jeden s mečem a štítem a druhý s lukem a na zádech oštěp. Než jsi se stihl vytratit, tak tě spatřili. Goblin s mečem a štítem na tebe vyběh, druhý začal natahovat luk.  
+117;zautočit na goblina s mečem;2;200;
+118;;;;Přesunul jsi se, mezitím na tebe zaútočil goblin s mečem
 ;;;;
 ;;;;
 ;;;;
