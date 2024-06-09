@@ -52,10 +52,11 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 117;přesunout se, aby goblin s lukem nemohl vystřelit;1;118;V lese jsi narazl na 2 gobliny. Jeden s mečem a štítem a druhý s lukem a na zádech oštěp. Než jsi se stihl vytratit, tak tě spatřili. Goblin s mečem a štítem na tebe vyběh, druhý začal natahovat luk.  
 117;zautočit na goblina s mečem;2;200;
 118;Blokovat úder mečem;1;119;Přesunul jsi se, mezitím na tebe zaútočil goblin s mečem.
-118;Zaútočit na hlavu goblina;2;;
+118;Zaútočit na hlavu goblina;2;1001;
 119;protiútok;1;120;Vyblokoval jsi meč ale goblin s lukem ti šípem sestřelil helmu z hlavy.
-120;;;;Při dotyku meče s 
-;;;;
+120;zkontrolovat helmu;1;122;Při dotyku meče s goblinem se goblin rozpadne na prah, druhý goblin uteče strachy.
+122;pokračovat do jeskyně;1;123;helmu by šipem protrhnu ta a zanechala velkou díru, už se nedá použít.
+1001;zkontrolovat brnění;;;Goblin mezitím vedl horizontální sek ale tvoje brnění meč zastavilo. Tvůj výpad však nic nezastavilo, ale Při dotyku meče s goblinem se goblin rozpadnul na prah. Druhý goblin utekl strachy.
 ;;;;
 ;;;;
 ;;;;
