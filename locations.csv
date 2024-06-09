@@ -1,10 +1,11 @@
 locationKey;actionMessage;inputKey;targetLocationKey;messageName
 666;začni znova;1;1;Zemřel jsi.
+667;znova;1;102;Zakopl jsi a vlkodlak tě pozřel zaživa.
 1;ano;1;2;Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu?
 1;ne;2;666;
 2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Opodál na zemi spatříš svitek sálající magíí. Poté co ho vezmeš se jeskyně začne otřásat a ty utíkáš ven.
-3;ano;1;4;Venku je noc a přes stromy v pozadí vidíš matné světlo. Chceš jít ke světlu nebo jít opačným směrem?
-3;ne;2;101;
+3;jít ke světlu;1;4;Venku je noc a přes stromy v pozadí vidíš matné světlo. Chceš jít ke světlu nebo jít opačným směrem?
+3;vydat se opačným směrem;2;101;
 4;ano;1;5;Došel jsi bez potíží ke světlu, které se ukázalo jako pěkná chaloupka. Chceš zaklepat nebo to nejdřív obhlédnout?
 4;ne;2;55;
 55;přijmout osud;1;666;Za rohem na tebe vyskočil mutant mezi psem a medvědem, který se p5ipravuje na máchnutí.
@@ -25,20 +26,20 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 101;utíkat;1;102;Procházíš temným lesem, když za sebou uslyšíš těžkopádné kroky. Otočíš se a uvidíš vlkodlaka s poraněnou rukou.
 101;Dobrý den, mohu vám pomoct?;2;666;
 102;doleva;1;103;Běžíš sprintem a snažíš se vlkodlakovi ztratit, ale v noci nic nevidíš a tak zahybáš podle instinktů.
-102;doprava;2;666;
-103;doleva;1;666;
+102;doprava;2;667;
+103;doleva;1;667;
 103;doprava;2;104;
-104;doleva;1;666;
+104;doleva;1;667;
 104;doprava;2;105;
 105;doleva;1;106;
-105;doprava;2;666;
+105;doprava;2;667;
 106;doleva;1;107;
-106;doprava;2;666;
-107;doleva;1;666;
+106;doprava;2;667;
+107;doleva;1;667;
 107;doprava;2;108;
 108;doleva;1;109;
-108;doprava;2;666;
-109;doleva;1;666;
+108;doprava;2;667;
+109;doleva;1;667;
 109;doprava;2;110;
 110;pokračovat dál;1;111;Za sebou jsi uslyšel bolestivý vytí, jak se vlkodlak nejspíš o něco zranil. Využil jsi příležitost a ztratil ses mu.
 111;jít k chatrči;1;113; Vyšel jsi na louku a nedaleko zahlédneš chatrč v relativně dobrém stavu.
