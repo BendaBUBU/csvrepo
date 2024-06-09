@@ -40,11 +40,11 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 108;doprava;2;666;
 109;doleva;1;666;
 109;doprava;2;110;
-110;;;;Za sebou jsi uslyšel bolestivý vytí, jak vlkodlak
-;;;;
-;;;;
-;;;;
-;;;;
+110;pokračovat dál;1;111;Za sebou jsi uslyšel bolestivý vytí, jak se vlkodlak nejspíš o něco zranil. Využil jsi příležitost a ztratil ses mu.
+111;jít k chatrči;1;113; Vyšel jsi na louku a nedaleko zahlédneš chatrč v relativně dobrém stavu.
+111;vyhnout se chatrči;2;112;
+112;jít k chatrči;1;113;Po neurčité době jsi se kolem sebe rozhlédl a opět jsi uviděl chatrč, citíš letmý tah, který tě k ní táhne, kterému se jen obtížně odolává.
+113;otevřit truhlu;1;114;
 ;;;;
 ;;;;
 ;;;;
