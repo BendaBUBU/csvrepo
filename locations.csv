@@ -27,19 +27,19 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 101;Dobrý den, mohu vám pomoct?;2;666;
 102;doleva;1;103;Běžíš sprintem a snažíš se vlkodlakovi ztratit, ale v noci nic nevidíš a tak zahybáš podle instinktů.
 102;doprava;2;667;
-103;doleva;1;667;
+103;doleva;1;667;zběsile utíkáš dál. Kam chceš zahnout?
 103;doprava;2;104;
-104;doleva;1;667;
+104;doleva;1;667;zběsile utíkáš dál. Kam chceš zahnout?
 104;doprava;2;105;
-105;doleva;1;106;
+105;doleva;1;106;zběsile utíkáš dál. Kam chceš zahnout?
 105;doprava;2;667;
-106;doleva;1;107;
+106;doleva;1;107;zběsile utíkáš dál. Kam chceš zahnout?
 106;doprava;2;667;
-107;doleva;1;667;
+107;doleva;1;667;zběsile utíkáš dál. Kam chceš zahnout?
 107;doprava;2;108;
-108;doleva;1;109;
+108;doleva;1;109;zběsile utíkáš dál. Kam chceš zahnout?
 108;doprava;2;667;
-109;doleva;1;667;
+109;doleva;1;667;zběsile utíkáš dál. Kam chceš zahnout?
 109;doprava;2;110;
 110;pokračovat dál;1;111;Za sebou jsi uslyšel bolestivý vytí, jak se vlkodlak nejspíš o něco zranil. Využil jsi příležitost a ztratil ses mu.
 111;jít k chatrči;1;113; Vyšel jsi na louku a nedaleko zahlédneš chatrč v relativně dobrém stavu.
