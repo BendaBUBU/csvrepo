@@ -3,7 +3,7 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 667;znova;1;102;Zakopl jsi a vlkodlak tě pozřel zaživa.
 1;ano;1;2;Probouzíš se ve tmě. Třeští ti hlava a kolem sebe cítíš pouze kámen. Na nic si nevzpomínáš. Chceš jít dopředu?
 1;ne;2;666;
-2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Opodál na zemi spatříš svitek sálající magíí. Poté co ho vezmeš se jeskyně začne otřásat a ty utíkáš ven.
+2;ano;1;3;Zjistíš že se nacházíš v jekyni. Skulinou ve stropu prosvítá světlo. Po chvíli uslyšíš děsivý kvílení a ty utíkáš ven.
 3;jít ke světlu;1;4;Venku je noc a přes stromy v pozadí vidíš matné světlo. Chceš jít ke světlu nebo jít opačným směrem?
 3;vydat se opačným směrem;2;101;
 4;ano;1;5;Došel jsi bez potíží ke světlu, které se ukázalo jako pěkná chaloupka. Chceš zaklepat nebo to nejdřív obhlédnout?
@@ -60,11 +60,9 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 1002;pokračovat do jeskyně;1;1003helma;úder brnění pouze prohnul ale natolik, že je nesnesitelný ho mít na sobě a nemáš ho vybavení na opravu, musíš ho tu nechat.
 200;zkontrolovat helmu;1;201;Šíp ti odstřelil helmu ale ty jsi vyvázl bez zranění. Goblin s mečem výpad nečekal a než stihl zvednout štít dopadl tvůj meč, ale při dotyku meče s goblinem se goblin rozpadnul na prah. Druhý goblin utekl strachy.
 201;pokračovat do jeskyně;1;123brnko;Helma byla šípem protrhnuta a zanechal v ní velkou díru, už se nedá použít.
-;;;;
-;;;;
-123brnko;;;;
-1003helma;;;;
-;;;;
+123brnko;Ano;1;124;Stojíš před jeskyní, kde to začalo. Chceš jít dál a utkat se s čímkoliv na co uvnitř narazíš?
+1003helma;1;1004;;Stojíš před jeskyní, kde to začalo. Chceš jít dál a utkat se s čímkoliv na co uvnitř narazíš?
+124;;;;Vejdeš do kruhové části jeskyně a uprostřed se z víru netopýrů zhmotní upír, zavříská, až ti to trhá ušní bubínky a opět se promění ve vír. Upír se zhmotní až u tebe a chystá se tě seknout jako břitvou ostrými nehty.
 ;;;;
 ;;;;
 ;;;;
