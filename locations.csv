@@ -56,14 +56,14 @@ locationKey;actionMessage;inputKey;targetLocationKey;messageName
 119;protiútok;1;120;Vyblokoval jsi meč ale goblin s lukem ti šípem sestřelil helmu z hlavy.
 120;zkontrolovat helmu;1;122;Při dotyku meče s goblinem se goblin rozpadne na prah, druhý goblin uteče strachy.
 122;pokračovat do jeskyně;1;123;helmu by šipem protrhnu ta a zanechala velkou díru, už se nedá použít.
-1001;zkontrolovat brnění;;;Goblin mezitím vedl horizontální sek ale tvoje brnění meč zastavilo. Tvůj výpad však nic nezastavilo, ale Při dotyku meče s goblinem se goblin rozpadnul na prah. Druhý goblin utekl strachy.
+1001;zkontrolovat brnění;1;1002;Goblin mezitím vedl horizontální sek ale tvoje brnění meč zastavilo. Tvůj výpad však nic nezastavilo, ale při dotyku meče s goblinem se goblin rozpadnul na prah. Druhý goblin utekl strachy.
+1002;pokračovat do jeskyně;1;1003;úder brnění pouze prohnul ale natolik, že je nesnesitelný ho mít na sobě a nemáš ho vybavení na opravu, musíš ho tu nechat.
+200;;;;Goblin výpad nečekal a než stihl zvednout štít dopadl tvůj meč, ale při dotyku meče s goblinem se goblin rozpadnul na prah. Druhý goblin utekl strachy.
 ;;;;
 ;;;;
 ;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+123brnko;;;;
+1003helma;;;;
 ;;;;
 ;;;;
 ;;;;
